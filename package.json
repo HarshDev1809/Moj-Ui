@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@moj-ui/fun-ui": "^0.0.1"
+    "@moj-ui/fun-ui": "^0.1.0"
   },
   "name": "@moj-ui/all",
   "description": "",
